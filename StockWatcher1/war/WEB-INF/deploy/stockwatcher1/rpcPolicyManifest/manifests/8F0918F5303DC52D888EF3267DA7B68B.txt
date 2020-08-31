@@ -1,0 +1,2 @@
+serviceClass: com.nagarro.sample.client.GreetingService
+path: E55DC5462A6B3F56B32D93910458E8D4.gwt.rpc

@@ -1,0 +1,3 @@
+# Module stockwatcher1
+# RPC service class, partial path of RPC policy file
+com.nagarro.sample.client.GreetingService, E55DC5462A6B3F56B32D93910458E8D4.gwt.rpc
